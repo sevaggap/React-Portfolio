@@ -2,7 +2,7 @@ import React from 'react';
 
 function Header({ currentPage, handlePageChange }) {
   return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" >
+    <nav class="navbar navbar-expand-sm navbar-light bg-light" >
     <a class="navbar-brand">Sevag Gaprielian Portfolio</a>
     
     <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
