@@ -2,9 +2,15 @@ import React from 'react';
 
 function Project({project}) {
 
-    return (
+  const styles = {
+    card: {
+      marginLeft: '1rem',
+      width: '22rem'
+    }
+  };
 
-    <div className="card mb-4" style={{width:'22rem'}}>
+    return (
+    <div className="card mb-4" style={styles.card}>
     <img src={project.img} class="card-img-top" alt="..."/>
     <div class="card-body">
     <h5 class="card-title">{project.name}</h5>

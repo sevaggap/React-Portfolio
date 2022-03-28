@@ -1,9 +1,18 @@
 import React from 'react';
 
 function Header({ currentPage, handlePageChange }) {
+  
+  const styles = {
+    title: {
+      marginLeft: '1rem',
+    }
+  };
   return (
     <nav class="navbar navbar-expand-sm navbar-light bg-light" >
-    <a class="navbar-brand">Sevag Gaprielian Portfolio</a>
+    <a class="navbar-brand m" 
+    style={styles.title} 
+    href="#about" 
+    onClick={() => handlePageChange('About')}>Sevag Gaprielian Portfolio</a>
     
     <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
       <ul class="navbar-nav">

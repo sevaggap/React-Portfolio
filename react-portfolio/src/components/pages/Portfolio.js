@@ -48,9 +48,16 @@ function  Portfolio () {
         }
     ];
 
+    const styles = {
+        h1: {
+          marginLeft: '1rem',
+          width: '22rem'
+        }
+      };
+    
     return (
         <div className='mt-3'>
-            <h1>Portfolio</h1>
+            <h1 style={styles.h1}>Portfolio</h1>
             <div className='col-md-12 mt-5'>
             <div className='row row-col-3 justify-content-center'> 
             <Project project={projects[0]}/>
