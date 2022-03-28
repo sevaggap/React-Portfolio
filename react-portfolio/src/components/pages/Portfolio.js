@@ -36,13 +36,15 @@ function  Portfolio () {
         {
             name: "Social Network API",
             github: 'https://github.com/sevaggap/Social-Network-API',
-            deployedLink: 'https://nameless-basin-17829.herokuapp.com/',
+            deployedLink: null ,
+            walkThrough:'',
             img: socialImage
         }, 
         {
             name: "Employee Management System",
             github: 'https://github.com/sevaggap/Employee-Management-System',
-            deployedLink: 'https://nameless-basin-17829.herokuapp.com/',
+            deployedLink: null ,
+            walkThrough:'',
             img: employeeImage
     
         }
