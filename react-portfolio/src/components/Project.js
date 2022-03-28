@@ -10,7 +10,7 @@ function Project({project}) {
   };
 
     return (
-    <div className="card mb-4" style={styles.card}>
+    <div className="card mb-4 shadow p-3 mb-5 bg-white rounded" style={styles.card}>
     <img src={project.img} class="card-img-top" alt="..."/>
     <div class="card-body">
     <h5 class="card-title">{project.name}</h5>
