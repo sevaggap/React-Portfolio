@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function About() {
+export default function Footer() {
   return (
     <div className="col-md-12 d-flex justify-content-center">      
     <div className="row row-cols-3">
