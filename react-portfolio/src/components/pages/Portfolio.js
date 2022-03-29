@@ -1,11 +1,11 @@
 import React from 'react';
 import Project from '../Project';
-const marvelImage = require('../../images/Marvel-Wiki.png');
-const weatherImage = require('../../images/Weather-Dashboard.png');
-const passwordImage = require('../../images/Password-Generator.png');
-const techImage = require('../../images/Tech-Blog.png');
-const socialImage = require('../../images/Social-Network-API.png');
-const employeeImage = require('../../images/Employee-Management-System.png');
+const marvelImage = require('../../files/Marvel-Wiki.png');
+const weatherImage = require('../../files/Weather-Dashboard.png');
+const passwordImage = require('../../files/Password-Generator.png');
+const techImage = require('../../files/Tech-Blog.png');
+const socialImage = require('../../files/Social-Network-API.png');
+const employeeImage = require('../../files/Employee-Management-System.png');
 
 function  Portfolio () {
     const projects = [
@@ -53,7 +53,6 @@ function  Portfolio () {
     const styles = {
         h1: {
           marginLeft: '1rem',
-          width: '22rem'
         }
       };
     

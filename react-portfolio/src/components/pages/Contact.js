@@ -15,17 +15,22 @@ export default function Contact() {
     },
     h4: {
       fontSize: '1rem',
+      marginLeft: '1rem'
     },
     h5: {
       fontSize: '1rem',
+      marginLeft: '1rem',
       fontStyle: 'italic',
       color: 'grey'
+    }, 
+    p: {
+      marginLeft: '1rem'
     }
   };
   
   return (
     <div>
-      <h1 style={styles.h1}>Reach out, I'd love to chat!</h1>
+      <h1 class='mt-3' style={styles.h1}>Reach out, I'd love to chat!</h1>
       <div className='row'>
         <div className='col-md-6'>
         <form style={styles.form}>
@@ -40,13 +45,13 @@ export default function Contact() {
             <label for="message">Message</label>
             <input type="message" class="form-control" id="exampleInputPassword1"></input>
           </div>
-          <button class="btn btn-primary" style={styles.button}>Submit</button>
+          <button class="btn btn-primary mb-4" style={styles.button}>Submit</button>
         </form>
         </div>
         <div className='col-md-6'>
           <h4 style={styles.h4}>The portfolio does not have a back end, and thus can't process the submission of forms.</h4>
           <h5 style={styles.h5}> If you would like to contact me, please email me at the email listetd below!</h5>
-          <p>Email: sevag.gaprielian@gmail.com</p>
+          <p style={styles.p}>Email: sevag.gaprielian@gmail.com</p>
         </div>
       </div>
     </div>
