@@ -50,7 +50,7 @@ export default function Contact() {
         </div>
         <div className='col-md-6'>
           <h4 style={styles.h4}>The portfolio does not have a back end, and thus can't process the submission of forms.</h4>
-          <h5 style={styles.h5}> If you would like to contact me, please email me at the email listetd below!</h5>
+          <h5 style={styles.h5}> If you would like to contact me, please email me at the email listed below!</h5>
           <p style={styles.p}>Email: sevag.gaprielian@gmail.com</p>
         </div>
       </div>
