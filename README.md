@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+* [Description](#desc) <br>
+* [Installation](#install) <br>
+* [Usage](#usage) <br>
+* [Credits](#credits) <br>
+* [License](#license) <br>
+* [Github](#github) <br>
 
-## Available Scripts
+<a name="desc"></a>
+## Description
 
-In the project directory, you can run:
+Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
 
-### `npm start`
+The purpose of this project was to create a portfolio using React, which sets me apart from other developers whose portfolios don’t use the latest technologies. The application is also deployed on GitHub Pages. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a name="install"></a>
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Follow the deployed link below in the GitHub section!
 
-### `npm test`
+<a name="usage"></a>
+## Usage
+The following image shows the application's appearance and functionality.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Homepage/About Me page should appear as follows:
 
-### `npm run build`
+![Node index.js command executed](./imgs/Application-Screenshot-1.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The Portfolio page should appear as follows:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Application success](./imgs/Application-Screenshot-2.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The Contact page should appear as follows:
 
-### `npm run eject`
+![Application success](./imgs/Application-Screenshot-3.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The Resume page should appear as follows:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Application success](./imgs/Application-Screenshot-4.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ <a name="Credits"></a>
+## Credits
+Uoft SCS Coding Bootcamp Gitlab
 
-## Learn More
+ <a name="License"></a>
+## License
+Copyright [2022] [Sevag Gaprielian]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ <a name="github"></a>
+## GitHub
+Github: sevaggap <br>
+Deployed Application: https://sevaggap.github.io/React-Portfolio/
