@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.e7abaaa0.css",
-    "main.js": "/React-Portfolio/static/js/main.ebdbf7c5.js",
+    "main.js": "/React-Portfolio/static/js/main.45d831eb.js",
     "static/media/Headshot.jpg": "/React-Portfolio/static/media/Headshot.39fb57f4af229ae64abd.jpg",
     "static/media/Marvel-Wiki.png": "/React-Portfolio/static/media/Marvel-Wiki.2dbe26443382815835cb.png",
     "static/media/Social-Network-API.png": "/React-Portfolio/static/media/Social-Network-API.098238d7967042b998b6.png",
@@ -13,10 +13,10 @@
     "static/media/Sevag Gaprielian Resume 2022 - Portfolio.pdf": "/React-Portfolio/static/media/Sevag Gaprielian Resume 2022 - Portfolio.9906c5a3eb0539729d6b.pdf",
     "index.html": "/React-Portfolio/index.html",
     "main.e7abaaa0.css.map": "/React-Portfolio/static/css/main.e7abaaa0.css.map",
-    "main.ebdbf7c5.js.map": "/React-Portfolio/static/js/main.ebdbf7c5.js.map"
+    "main.45d831eb.js.map": "/React-Portfolio/static/js/main.45d831eb.js.map"
   },
   "entrypoints": [
     "static/css/main.e7abaaa0.css",
-    "static/js/main.ebdbf7c5.js"
+    "static/js/main.45d831eb.js"
   ]
 }
