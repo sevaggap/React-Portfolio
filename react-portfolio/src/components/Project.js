@@ -18,8 +18,8 @@ function Project({project}) {
     <div class="card-body">
     <h5 class="card-title">{project.name}</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <button href={project.github} class="card-link btn btn-primary">Github</button>
-    <button href={project.deployedLink !== null ? project.deployedLink : project.walkThrough} class="card-link btn btn-primary">{project.deployedLink !== null ? 'Deployed Application' : 'Walkthrough Video'}</button>
+    <a href={project.github} class="card-link btn btn-primary">Github</a>
+    <a href={project.deployedLink !== null ? project.deployedLink : project.walkThrough} class="card-link btn btn-primary">{project.deployedLink !== null ? 'Deployed Application' : 'Walkthrough Video'}</a>
   </div>
 </div>
 )

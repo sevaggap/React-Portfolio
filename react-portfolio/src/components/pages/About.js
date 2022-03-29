@@ -15,6 +15,7 @@ export default function About() {
     img: {
       height:'500px', 
       marginLeft: 40, 
+      marginRight: 40,
       borderRadius: 75
     },
     p: {

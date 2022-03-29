@@ -1,4 +1,6 @@
 import React from 'react';
+const resumeImage = require('../../files/Resume.png');
+const resume = require('../../files/Sevag Gaprielian Resume 2022 - Portfolio.pdf');
 
 export default function Resume() {
 
@@ -8,6 +10,12 @@ export default function Resume() {
         },
         list: {
             marginLeft: '1rem'
+        },
+        resume: {
+            marginLeft: '1rem'
+        },
+        img: {
+            maginRight: '1rem'
         }
       };
 
@@ -15,9 +23,9 @@ export default function Resume() {
         <div>
         <div>
         <div class='row mt-3'>
-          <div className='col-md-6' style={styles.list}>
-          <h1 class='resume-list'>Here's what I can do: </h1>
-          <ul class="list-group ">
+          <div className='col-md-5' style={styles.list}>
+          <h1>Here's what I can do: </h1>
+          <ul class="list-group mb-4 ">
             <li class="list-group-item">HTML</li>
             <li class="list-group-item">CSS</li>
             <li class="list-group-item">JavaScript</li>
@@ -31,13 +39,18 @@ export default function Resume() {
             <li class="list-group-item">GraphQL using Apollo Sandbox</li>
             <li class="list-group-item">Redux</li>
             <li class="list-group-item">Stripe Payment Platform</li>
-
-            
-        </ul>
-          <div className='col-md-6'>
-            
-          </div>
+            </ul>
         </div>
+          <div className='col-md-6' style={styles.resume}>
+          <h1>Check out my resume!</h1>
+            <div className="card mb-4 shadow p-3 mb-5 bg-white rounded" style={styles.card}>
+                <img src={resumeImage} style={styles.img} class="card-img-top" alt="Resume"/>
+                <div class="card-body">
+                <a href={resume}  class="text-decoration-none">View the Full Resume Here</a>
+                </div>
+            </div>
+          </div>
+        
       </div>
       </div>
       </div>

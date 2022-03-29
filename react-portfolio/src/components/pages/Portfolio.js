@@ -37,14 +37,14 @@ function  Portfolio () {
             name: "Social Network API",
             github: 'https://github.com/sevaggap/Social-Network-API',
             deployedLink: null ,
-            walkThrough:'',
+            walkThrough:'https://drive.google.com/file/d/1DCJ12FhGCpaq0DmeppzCb0qAz8T4LDrA/view?usp=sharing',
             img: socialImage
         }, 
         {
             name: "Employee Management System",
             github: 'https://github.com/sevaggap/Employee-Management-System',
             deployedLink: null ,
-            walkThrough:'',
+            walkThrough:'https://drive.google.com/file/d/16Z1aEwFRY_KSgYRmxj2AXLqkOHLoAhCX/view?usp=sharing',
             img: employeeImage
     
         }
