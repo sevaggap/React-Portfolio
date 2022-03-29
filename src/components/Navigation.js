@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Header from './Header';
 import Footer from "./Footer";
 import About from './pages/About';
@@ -8,6 +8,10 @@ import Resume from './pages/Resume';
 
 export default function Content() {
   const [currentPage, setCurrentPage] = useState('About');
+
+  useEffect(() => {
+    document.title = "Sevag Gaprielian Portfolio"
+ }, []);
 
   const renderPage = () => {
     if (currentPage === 'About') {
