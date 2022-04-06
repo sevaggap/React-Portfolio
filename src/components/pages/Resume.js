@@ -30,13 +30,15 @@ export default function Resume() {
             <li class="list-group-item">CSS</li>
             <li class="list-group-item">JavaScript</li>
             <li class="list-group-item">NodeJS</li>
+            <li class="list-group-item">Object Oriented Programming</li>
             <li class="list-group-item">Express including Express-Sessions</li>
-            <li class="list-group-item">Express including Express-Sessions</li><li class="list-group-item">SQL</li>
+            <li class="list-group-item">SQL</li>
+            <li class="list-group-item">mongoDB</li>
             <li class="list-group-item">Progressive Web Applications (PWA)</li>
             <li class="list-group-item">React</li>
             <li class="list-group-item">Implementation of the MERN Stack to build full-stack applications</li>
             <li class="list-group-item">JWT Authentication</li>
-            <li class="list-group-item">GraphQL using Apollo Sandbox</li>
+            <li class="list-group-item">graphQL using Apollo Sandbox</li>
             <li class="list-group-item">Redux</li>
             <li class="list-group-item">Stripe Payment Platform</li>
             </ul>
