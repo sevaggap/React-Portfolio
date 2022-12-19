@@ -41,6 +41,10 @@ export default function Resume() {
             <li class="list-group-item">graphQL using Apollo Sandbox</li>
             <li class="list-group-item">Redux</li>
             <li class="list-group-item">Stripe Payment Platform</li>
+            <li class="list-group-item">iOS Application Development</li>
+            <li class="list-group-item">Swift</li>
+            <li class="list-group-item">Swift UI</li>
+            <li class="list-group-item">API Implementation</li>
             </ul>
         </div>
           <div className='col-md-6' style={styles.resume}>
