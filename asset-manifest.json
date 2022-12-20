@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.e7abaaa0.css",
-    "main.js": "/React-Portfolio/static/js/main.259f4b28.js",
+    "main.js": "/React-Portfolio/static/js/main.d2df9694.js",
     "static/media/Headshot.jpg": "/React-Portfolio/static/media/Headshot.39fb57f4af229ae64abd.jpg",
     "static/media/Marvel-Wiki.png": "/React-Portfolio/static/media/Marvel-Wiki.2dbe26443382815835cb.png",
     "static/media/Social-Network-API.png": "/React-Portfolio/static/media/Social-Network-API.098238d7967042b998b6.png",
@@ -9,14 +9,14 @@
     "static/media/Weather-Dashboard.png": "/React-Portfolio/static/media/Weather-Dashboard.8dbd68b3be73896792b3.png",
     "static/media/Employee-Management-System.png": "/React-Portfolio/static/media/Employee-Management-System.15617f78aba481991dc6.png",
     "static/media/Resume.png": "/React-Portfolio/static/media/Resume.82b20edee03284aff305.png",
-    "static/media/Sevag Gaprielian Resume 2022 - Portfolio.pdf": "/React-Portfolio/static/media/Sevag Gaprielian Resume 2022 - Portfolio.ac41ffa9070823c6da2c.pdf",
     "static/media/Password-Generator.png": "/React-Portfolio/static/media/Password-Generator.d67a55adbca72e6914b1.png",
+    "static/media/Sevag Gaprielian Resume 2022 - Portfolio.pdf": "/React-Portfolio/static/media/Sevag Gaprielian Resume 2022 - Portfolio.ba713ba8ee7c3ceb653d.pdf",
     "index.html": "/React-Portfolio/index.html",
     "main.e7abaaa0.css.map": "/React-Portfolio/static/css/main.e7abaaa0.css.map",
-    "main.259f4b28.js.map": "/React-Portfolio/static/js/main.259f4b28.js.map"
+    "main.d2df9694.js.map": "/React-Portfolio/static/js/main.d2df9694.js.map"
   },
   "entrypoints": [
     "static/css/main.e7abaaa0.css",
-    "static/js/main.259f4b28.js"
+    "static/js/main.d2df9694.js"
   ]
 }
