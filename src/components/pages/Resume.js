@@ -2,6 +2,7 @@ import React from 'react';
 const resumeImage = require('../../files/Resume.png');
 const resume = require('../../files/Sevag Gaprielian Resume 2022 - Portfolio.pdf');
 
+
 export default function Resume() {
 
     const styles = {
